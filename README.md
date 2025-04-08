@@ -1,4 +1,4 @@
-## Hi there 👋
+## Hi! My name is Pedro Henrique Franca Rezende. I like to solve problems and help people with the knowledge I have and always trying to improve that knowledge. 
 
 <!--
 **pedrorezende09/pedrorezende09** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
